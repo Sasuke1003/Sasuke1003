@@ -1,32 +1,67 @@
 <!-- My favourite header -->
 <img src="https://github.com/Sasuke1003/photoshub/blob/main/header.png"/>
 
+<div align="center">
+<pre><code>
+  ░██████  ░██                                         ░██                 ░██████      ░██                      ░██ ░██           
+ ░██   ░██ ░██                                         ░██                ░██   ░██     ░██                      ░██               
+░██        ░████████  ░██    ░██ ░████████   ░████████ ░██  ░███████     ░██         ░████████ ░██    ░██  ░████████ ░██ ░███████  
+░██        ░██    ░██ ░██    ░██ ░██    ░██ ░██    ░██     ░██            ░████████     ░██    ░██    ░██ ░██    ░██ ░██░██    ░██ 
+░██        ░██    ░██ ░██    ░██ ░██    ░██ ░██    ░██      ░███████             ░██    ░██    ░██    ░██ ░██    ░██ ░██░██    ░██ 
+ ░██   ░██ ░██    ░██ ░██   ░███ ░██    ░██ ░██   ░███            ░██     ░██   ░██     ░██    ░██   ░███ ░██   ░███ ░██░██    ░██ 
+  ░██████  ░██    ░██  ░█████░██ ░██    ░██  ░█████░██      ░███████       ░██████       ░████  ░█████░██  ░█████░██ ░██ ░███████  
+                                                   ░██                                                                             
+                                             ░███████                                                                              
+</code></pre>
+</div>
+
+<!-- New website photo's link-->
+<div align="center">
+  <h2>↘ My New Web! ↙</h2>
+  <img src="https://capsule-render.vercel.app/api?type=line&height=3&color=gradient:2AF598,FF00FF" width="100%"/>
+  <a href="https://chunglkc-production.up.railway.app">
+    <img src="https://github.com/Sasuke1003/photoshub/blob/main/cssyellow.png">
+  </a>
+  <p align="center">This website is built with HTML5, CSS3, JS (ES6+), Node, and PostgreSQL. </p>
+  <p align="center">Thanks to Railway for hosting and Twilio for third-party API authentication.</p>
+</div>
+
+<!-- This is Spotify-->
+<table>
+  <tr>
+    <td valign="top">
+      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=douling_km&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false" width="350"/>
+    </td>
+    <td valign="top">
+      <h3>Hi there 👋, I'm Chung</h3>
+      <p>A passionate developer from Hong Kong, currently living in Taiwan.</p>
+      <p>I love building things for the web and exploring new technologies. Here's a little bit about me:</p>
+      <ul>
+        <li>🔭 I’m currently working on enhancing my personal website.</li>
+        <li>🌱 I’m currently learning about DevOps and cloud infrastructure.</li>
+        <li>💬 Ask me about anything related to JavaScript, React, or Node.js!</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<!-- This is Youtube Music
+<p align="center">
+  <img src="https://youtube-music-api-gamma.vercel.app" width="350" height="250"/>
+</p>
+-->
+
 <!-- NewNanCity -->
 <h3 align="center">牛腩小镇 | NewNanCity | JE1.20.1</h3>
 <p align="center">
     <a href="https://github.com/NewNanCity" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-NewNanCity-blue?style=for-the-badge&logo=github&logoColor=white" alt="NewNanCity GitHub"/>
     </a>
-    -----
+    ----
     <a href="https://www.wolai.com/newnan/mLB6aqsvwTLxu3DCboQt7b" target="_blank">
         <img src="https://img.shields.io/badge/Website-牛腩小鎮-green?style=for-the-badge&logo=google-chrome&logoColor=white" alt="NewNanCity Website"/>
     </a>
 </p>
-
-<div align="center">
-<pre>
- ██████╗██╗  ██╗██╗   ██╗███╗   ██╗ ██████╗ ███████╗    ███████╗████████╗██╗   ██╗██████╗ ██╗ ██████╗ 
-██╔════╝██║  ██║██║   ██║████╗  ██║██╔════╝ ██╔════╝    ██╔════╝╚══██╔══╝██║   ██║██╔══██╗██║██╔═══██╗
-██║     ███████║██║   ██║██╔██╗ ██║██║  ███╗███████╗    ███████╗   ██║   ██║   ██║██║  ██║██║██║   ██║
-██║     ██╔══██║██║   ██║██║╚██╗██║██║   ██║╚════██║    ╚════██║   ██║   ██║   ██║██║  ██║██║██║   ██║
-╚██████╗██║  ██║╚██████╔╝██║ ╚████║╚██████╔╝███████║    ███████║   ██║   ╚██████╔╝██████╔╝██║╚██████╔╝
- ╚═════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝ ╚══════╝    ╚══════╝   ╚═╝    ╚═════╝ ╚═════╝ ╚═╝ ╚═════╝ 
-</pre>
-</div>
-<p align="center">This is my login system under testing! <a href="https://chunglkc-production.up.railway.app">→ Click me go ←</a></p>
-<p align="center">This website is built with HTML5, CSS3, JS (ES6+), Node, and PostgreSQL. </p>
-<p align="center">Thanks to Railway for hosting and Twilio for third-party API authentication.</p>
-
 
 <!-- GitHub Trophy -->
 <p align="center"> 
@@ -90,16 +125,4 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=sasuke1003&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Most Used Languages" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sasuke1003&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-</div>
-
-<!-- This is Spotify-->
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=douling_km&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false" width="350" height="250"/>
-</p>
-
-<!-- This is Youtube Music
-<p align="center">
-  <img src="https://youtube-music-api-gamma.vercel.app" width="350" height="250"/>
-</p>
--->
+  <img height="180em" src
