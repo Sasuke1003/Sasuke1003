@@ -13,8 +13,8 @@
     </a>
 </p>
 
+<a href="https://chunglkc-production.up.railway.app">
 <div align="center">
-  <a href="https://chunglkc-production.up.railway.app">
     <pre>
   ░██████  ░██                                         ░██                 ░██████      ░██                      ░██ ░██           
  ░██   ░██ ░██                                         ░██                ░██   ░██     ░██                      ░██               
@@ -26,9 +26,10 @@
                                                    ░██                                                                             
                                              ░███████                                                                              
     </pre>
-  </a>
-  <h2>↗ My New Web! ↖</h2>
 </div>
+</a>
+
+  <h2>↗ My New Web! ↖</h2>
 
 <!-- GitHub Trophy -->
 <p align="center"> 
