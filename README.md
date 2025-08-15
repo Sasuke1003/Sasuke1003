@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sasuke1003" alt="sasuke1003" /></a> </p>
 
-<div><h3 align="left" width="50%">Connect with me:</h3><h3 align="right" width="50%">Languages and Tools:</h3></div>
+<div><h3 align="left" width="200px">Connect with me:</h3><h3 align="right" width="200px">Languages and Tools:</h3></div>
 <p align="left">
 <a href="https://codepen.io/sasuke1003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sasuke1003" height="30" width="40" /></a>
 <a href="https://twitter.com/nagalkc1003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nagalkc1003" height="30" width="40" /></a>
