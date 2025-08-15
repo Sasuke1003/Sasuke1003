@@ -42,6 +42,9 @@
   <tr>
     <td valign="top">
       <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=douling_km&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false" width="350"/>
+        <p align="center">
+          <img src="https://img.shields.io/badge/dynamic/json?url=https://worldtimeapi.org/api/ip&query=datetime&label=Last%20Updated&color=informational&style=flat-square&logo=clockify" alt="Last Updated"/>
+        </p>
     </td>
     <td valign="top">
       <h3>Hi there 👋, I'm Chung</h3>
