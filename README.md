@@ -27,17 +27,6 @@
 <p align="center">This website is built with HTML5, CSS3, JS (ES6+), Node, and PostgreSQL. </p>
 <p align="center">Thanks to Railway for hosting and Twilio for third-party API authentication.</p>
 
-<!-- New website photo's link-->
-<div align="center">
-  <h2>↘ My New Web! ↙</h2>
-  <img src="https://capsule-render.vercel.app/api?type=line&height=3&color=gradient:2AF598,FF00FF" width="100%"/>
-  <a href="https://chunglkc-production.up.railway.app">
-    <img src="https://github.com/Sasuke1003/photoshub/blob/main/cssyellow.png">
-  </a>
-  <p align="center">This website is built with HTML5, CSS3, JS (ES6+), Node, and PostgreSQL. </p>
-  <p align="center">Thanks to Railway for hosting and Twilio for third-party API authentication.</p>
-</div>
-
 <!-- This is Spotify-->
 <table>
   <tr>
