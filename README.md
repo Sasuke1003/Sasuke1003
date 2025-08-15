@@ -30,7 +30,7 @@
 <!-- This is Spotify-->
 <table>
   <tr>
-    <td valign="top">
+    <td valign="middle">
       <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=douling_km&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false" width="350"/>
     </td>
     <td valign="top">
