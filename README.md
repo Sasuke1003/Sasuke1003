@@ -26,7 +26,7 @@
                                              ░███████                                                                              
 </pre>
 </div>
-<a href="https://chunglkc-production.up.railway.app" align="center">→ Click me go ←</a>
+<p align="center"><a href="https://chunglkc-production.up.railway.app">→ Click me go ←</a></p>
 
 
 <!-- GitHub Trophy -->
