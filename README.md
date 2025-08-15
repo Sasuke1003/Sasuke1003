@@ -6,7 +6,7 @@
     <img src="https://github.com/Sasuke1003/photoshub/blob/main/cssyellow.png">
   </a>
 </div>
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=douling_km&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=douling_km&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 <!-- GitHub Trophy -->
 <p align="center"> 
    <a href="https://github.com/ryo-ma/github-profile-trophy"> 
