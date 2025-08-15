@@ -35,8 +35,10 @@
     </td>
     <td valign="top">
       <h3>Hi there 👋, I'm Chung</h3>
-      <p>I'm just a music student who does some amateur programming.</p>
-      <p>But I think we can be friends! Give me a star~</p>
+      <ul>
+      <li>I'm just a music student who does some amateur programming.</li>
+      <li>But I think we can be friends! Give me a star~</li>
+      </ul>
       <ul>
         <li>Email: kcbrokeer@gmail.com</li>
         <li>RL language: Cantonese → Chinese → English</li>
