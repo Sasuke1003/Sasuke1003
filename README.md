@@ -1,5 +1,7 @@
 <h1 align="center">Welcome to se me! I'm chung!</h1>
+
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sasuke1003&label=Profile%20views&color=0e75b6&style=flat" alt="sasuke1003" /> </p>
+![welcome1](https://github.com/user-attachments/assets/e2a00abe-a3ad-4e65-a7b6-7920ba4977ea)
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sasuke1003" alt="sasuke1003" /></a> </p>
 
