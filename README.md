@@ -15,10 +15,6 @@
                                              ░███████                                                                              
     </pre>
   </a>
-</div>
-
-<!-- New website photo's link-->
-<div align="center">
   <h2>↗ My New Web! ↖</h2>
 </div>
 
