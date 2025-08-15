@@ -123,7 +123,7 @@
 <!--GitHub Stats-->
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=sasuke1003&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Most Used Languages" />
-  <img height="160em" src="https://raw.githubusercontent.com/Sasuke1003/photoshub/refs/heads/main/Pixel%20Art%208Bit%20GIF%20by%20pixel%20jeff.gif" />
+  <img height="120em" src="https://raw.githubusercontent.com/Sasuke1003/photoshub/refs/heads/main/Pixel%20Art%208Bit%20GIF%20by%20pixel%20jeff.gif" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sasuke1003&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
 </div>
 
