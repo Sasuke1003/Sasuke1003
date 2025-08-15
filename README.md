@@ -1,6 +1,18 @@
 <!-- My favourite header -->
 <img src="https://github.com/Sasuke1003/photoshub/blob/main/header.png"/>
 
+<!-- NewNanCity -->
+<h3 align="center">牛腩小镇 | NewNanCity | JE1.20.1</h3>
+<p align="center">
+    <a href="https://github.com/NewNanCity" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-NewNanCity-blue?style=for-the-badge&logo=github&logoColor=white" alt="NewNanCity GitHub"/>
+    </a>
+    -----
+    <a href="https://www.wolai.com/newnan/mLB6aqsvwTLxu3DCboQt7b" target="_blank">
+        <img src="https://img.shields.io/badge/Website-牛腩小鎮-green?style=for-the-badge&logo=google-chrome&logoColor=white" alt="NewNanCity Website"/>
+    </a>
+</p>
+
 <div align="center">
   <a href="https://chunglkc-production.up.railway.app">
     <pre>
@@ -17,18 +29,6 @@
   </a>
   <h2>↗ My New Web! ↖</h2>
 </div>
-
-<!-- NewNanCity -->
-<h3 align="center">牛腩小镇 | NewNanCity | JE1.20.1</h3>
-<p align="center">
-    <a href="https://github.com/NewNanCity" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-NewNanCity-blue?style=for-the-badge&logo=github&logoColor=white" alt="NewNanCity GitHub"/>
-    </a>
-    -----
-    <a href="https://www.wolai.com/newnan/mLB6aqsvwTLxu3DCboQt7b" target="_blank">
-        <img src="https://img.shields.io/badge/Website-牛腩小鎮-green?style=for-the-badge&logo=google-chrome&logoColor=white" alt="NewNanCity Website"/>
-    </a>
-</p>
 
 <!-- GitHub Trophy -->
 <p align="center"> 
