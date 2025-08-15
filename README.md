@@ -6,7 +6,10 @@
     <img src="https://github.com/Sasuke1003/photoshub/blob/main/cssyellow.png">
   </a>
 </div>
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=douling_km&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false">
+<p align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=douling_km&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false" width="350" />
+  <img src="https://youtube-music-api-gamma.vercel.app" width="350" />
+</p>
 <!-- GitHub Trophy -->
 <p align="center"> 
    <a href="https://github.com/ryo-ma/github-profile-trophy"> 
