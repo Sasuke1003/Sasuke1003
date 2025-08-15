@@ -30,7 +30,7 @@
 <p align="center">Thanks to Railway for hosting and Twilio for third-party API authentication.</p>
 
 <!--Spotify + Introduce-->
-<table>
+<table align="center">
   <tr>
     <td valign="top">
       <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=douling_km&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false" width="350"/>
