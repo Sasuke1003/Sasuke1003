@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=00f6ff&height=120&section=header&text=Welcome%20to%20my%20GitHub%20profile&fontSize=30&fontColor=ffffff&animation=twinkling"/>
+<img src="https://github.com/Sasuke1003/photoshub/blob/main/70ab20f3-70c1-4c3e-a2b0-57c63f31adca.png"/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sasuke1003&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
