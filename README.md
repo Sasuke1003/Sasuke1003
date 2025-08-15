@@ -31,7 +31,7 @@
 <!-- GitHub Trophy -->
 <p align="center"> 
    <a href="https://github.com/ryo-ma/github-profile-trophy"> 
-     <img src="https://github-profile-trophy.vercel.app/?username=sasuke1003&theme=tokyonight&column=8&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="GitHub Trophy" /> 
+     <img src="https://github-profile-trophy.vercel.app?username=sasuke1003&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
    </a> 
 </p>
 
