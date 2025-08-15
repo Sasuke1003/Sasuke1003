@@ -32,6 +32,8 @@
 <p align="center">This website is built with HTML5, CSS3, JS (ES6+), Node, and PostgreSQL. </p>
 <p align="center">Thanks to Railway for hosting and Twilio for third-party API authentication.</p>
 
+<img src="https://raw.githubusercontent.com/Sasuke1003/photoshub/main/gradient.svg" width="100%"/>
+
 <!--Spotify + Introduce-->
 <table align="center">
   <tr>
