@@ -8,7 +8,7 @@
 </div>
 <p align="center">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=douling_km&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false" width="350" />
-  <img src="https://youtube-music-api-gamma.vercel.app" width="350" height="100"/>
+  <img src="https://youtube-music-api-gamma.vercel.app" width="350" height="250"/>
 </p>
 <!-- GitHub Trophy -->
 <p align="center"> 
