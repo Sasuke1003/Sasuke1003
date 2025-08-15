@@ -1,7 +1,8 @@
 <!--My favourite header-->
 <img src="https://github.com/Sasuke1003/photoshub/blob/main/header.png"/>
 
-<img src="https://raw.githubusercontent.com/Sasuke1003/photoshub/main/gradient.svg" />
+<img src="https://raw.githubusercontent.com/Sasuke1003/photoshub/main/gradient.svg" width="100%"/>
+
 
 <!--NewNanCity-->
 <h3 align="center">牛腩小镇 | NewNanCity | JE1.20.1</h3>
