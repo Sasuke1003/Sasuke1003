@@ -68,6 +68,15 @@ Markdown 是一種輕量級標記語言，用於設定文字格式。<mcreferenc
 -   **自動化**：使用 GitHub Actions 來自動更新 README 的某些部分，例如貢獻者列表或最新的發行版資訊。<mcreference link="https://www.dhiwise.com/post/how-to-write-a-readme-that-stands-out-in-best-practices" index="5">5</mcreference>
 -   **提供範本**：如果您希望貢獻者回報問題或提交 PR 時能有固定的格式，可以在 `.github` 資料夾中建立 `ISSUE_TEMPLATE.md` 和 `PULL_REQUEST_TEMPLATE.md`。
 
+### 更多專業技巧
+
+-   **撰寫清晰的提交訊息 (Commit Message)**：雖然這不直接在 README 中，但一個好的提交歷史能輔助說明專案的演進。鼓勵貢獻者撰寫有意義的提交訊息。
+-   **保持更新**：專案會不斷演進，請確保您的 README 也與時俱進。定期檢查並更新安裝步驟、功能列表和相依性。<mcreference link="https://www.hatica.io/blog/best-practices-for-github-readme/" index="4">4</mcreference>
+-   **國際化 (i18n)**：如果您的專案面向全球受眾，可以考慮提供多語言版本的 README。您可以建立一個 `README.zh-TW.md` 這樣的檔案。
+-   **加入 FAQ (常見問題)**：如果使用者經常提出相同的問題，建立一個 FAQ 區塊可以節省您和使用者的時間。
+-   **展示專案狀態**：如果您的專案已經不再積極維護，請在 README 的頂部明確標示，例如「本專案已封存且不再維護」。<mcreference link="https://www.makeareadme.com/" index="2">2</mcreference>
+-   **引用與致謝**：如果您的專案基於他人的研究或工作，請在 README 中給予適當的引用和致謝。
+
 ---
 
 ## README 範本
