@@ -18,17 +18,6 @@
   <h2>↗ My New Web! ↖</h2>
 </div>
 
-<!-- This is Spotify-->
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=douling_km&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false" width="350" height="250"/>
-</p>
-
-<!-- This is Youtube Music
-<p align="center">
-  <img src="https://youtube-music-api-gamma.vercel.app" width="350" height="250"/>
-</p>
--->
-
 <!-- NewNanCity -->
 <h3 align="center">牛腩小镇 | NewNanCity | JE1.20.1</h3>
 <p align="center">
@@ -105,3 +94,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=sasuke1003&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Most Used Languages" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sasuke1003&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
 </div>
+
+<!-- This is Spotify-->
+<p align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=douling_km&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false" width="350" height="250"/>
+</p>
+
+<!-- This is Youtube Music
+<p align="center">
+  <img src="https://youtube-music-api-gamma.vercel.app" width="350" height="250"/>
+</p>
+-->
