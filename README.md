@@ -9,7 +9,7 @@
     </a>
     -----
     <a href="https://www.wolai.com/newnan/mLB6aqsvwTLxu3DCboQt7b" target="_blank">
-        <img src="https://img.shields.io/badge/Website-牛腩小鎮-green?style=for-the-badge&logo=google-chrome&logoColor=white" alt="NewNanCity Website"/>
+        <img src="https://img.shields.io/badge/Website-牛腩小镇-green?style=for-the-badge&logo=google-chrome&logoColor=white" alt="NewNanCity Website"/>
     </a>
 </p>
 
