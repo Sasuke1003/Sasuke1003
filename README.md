@@ -1,7 +1,7 @@
-<!-- My favourite header -->
+<!--My favourite header-->
 <img src="https://github.com/Sasuke1003/photoshub/blob/main/header.png"/>
 
-<!-- NewNanCity -->
+<!--NewNanCity-->
 <h3 align="center">牛腩小镇 | NewNanCity | JE1.20.1</h3>
 <p align="center">
     <a href="https://github.com/NewNanCity" target="_blank">
@@ -13,6 +13,7 @@
     </a>
 </p>
 
+<!--Chung's Studio-->
 <div align="center">
 <pre>
  ██████╗██╗  ██╗██╗   ██╗███╗   ██╗ ██████╗ ███████╗    ███████╗████████╗██╗   ██╗██████╗ ██╗ ██████╗ 
@@ -23,11 +24,12 @@
  ╚═════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝ ╚══════╝    ╚══════╝   ╚═╝    ╚═════╝ ╚═════╝ ╚═╝ ╚═════╝ 
 </pre>
 </div>
+<!--Chung's Login System / New Web-->
 <p align="center">This is my login system under testing! <a href="https://chunglkc-production.up.railway.app">→ Click me go ←</a></p>
 <p align="center">This website is built with HTML5, CSS3, JS (ES6+), Node, and PostgreSQL. </p>
 <p align="center">Thanks to Railway for hosting and Twilio for third-party API authentication.</p>
 
-<!-- This is Spotify-->
+<!--Spotify + Introduce-->
 <table>
   <tr>
     <td valign="top">
@@ -52,6 +54,7 @@
    </a> 
 </p>
 
+<!--Social methods-->
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://codepen.io/sasuke1003" target="blank">
@@ -71,6 +74,7 @@
   </a>
 </p>
 
+<!--Languages and Tools-->
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
@@ -105,6 +109,7 @@
   </a>
 </p>
 
+<!--GitHub Stats-->
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=sasuke1003&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Most Used Languages" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sasuke1003&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
