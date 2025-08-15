@@ -1,4 +1,4 @@
-<h1 align="center">👋 Welcome to see me! I'm chung!</h1>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=00f6ff&height=120&section=header&text=Welcome%20to%20my%20GitHub%20profile&fontSize=30&fontColor=ffffff&animation=twinkling"/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sasuke1003&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
