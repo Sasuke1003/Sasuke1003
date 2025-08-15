@@ -35,12 +35,11 @@
     </td>
     <td valign="top">
       <h3>Hi there 👋, I'm Chung</h3>
-      <p>A passionate developer from Hong Kong, currently living in Taiwan.</p>
-      <p>I love building things for the web and exploring new technologies. Here's a little bit about me:</p>
+      <p>I'm just a music student who does some amateur programming.</p>
+      <p>But I think we can be friends! Give me a star~</p>
       <ul>
-        <li>🔭 I’m currently working on enhancing my personal website.</li>
-        <li>🌱 I’m currently learning about DevOps and cloud infrastructure.</li>
-        <li>💬 Ask me about anything related to JavaScript, React, or Node.js!</li>
+        <li>Email: kcbrokeer@gmail.com</li>
+        <li>RL language: Cantonese → Chinese → English</li>
       </ul>
     </td>
   </tr>
