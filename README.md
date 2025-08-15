@@ -20,6 +20,17 @@
 </p>
 -->
 
+<!-- NewNanCity -->
+<h3 align="center">牛腩小鎮 | NewNanCity</h3>
+<p align="center">
+    <a href="https://github.com/NewNanCity" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-NewNanCity-blue?style=for-the-badge&logo=github&logoColor=white" alt="NewNanCity GitHub"/>
+    </a>
+    <a href="https://www.wolai.com/newnan/mLB6aqsvwTLxu3DCboQt7b" target="_blank">
+        <img src="https://img.shields.io/badge/Website-牛腩小鎮-green?style=for-the-badge&logo=google-chrome&logoColor=white" alt="NewNanCity Website"/>
+    </a>
+</p>
+
 <!-- GitHub Trophy -->
 <p align="center"> 
    <a href="https://github.com/ryo-ma/github-profile-trophy"> 
