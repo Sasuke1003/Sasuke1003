@@ -1,8 +1,11 @@
 <img src="https://github.com/Sasuke1003/photoshub/blob/main/header.png"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sasuke1003&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+<div>
+  <h2>My New Web!</h2>
+  <a href="https://chunglkc-production.up.railway.app">
+    <img src="https://github.com/Sasuke1003/photoshub/blob/main/cssyellow.png">
+  </a>
+</div>
 
 <!-- GitHub Trophy -->
 <p align="center"> 
