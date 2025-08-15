@@ -1,6 +1,8 @@
 <!--My favourite header-->
 <img src="https://github.com/Sasuke1003/photoshub/blob/main/header.png"/>
-<img src="https://capsule-render.vercel.app/api?type=line&height=3&color=gradient&section=header&text=--&fontColor=2AF598&fontAlign=50&fontAlignY=50&desc=--&descAlign=50&descAlignY=50&reversal=false&stroke=FF00FF" width="100%"/>
+
+
+
 <!--NewNanCity-->
 <h3 align="center">牛腩小镇 | NewNanCity | JE1.20.1</h3>
 <p align="center">
