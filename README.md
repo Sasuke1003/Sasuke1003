@@ -30,15 +30,13 @@
 <!-- This is Spotify-->
 <table>
   <tr>
-    <td valign="middle">
+    <td valign="top">
       <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=douling_km&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false" width="350"/>
     </td>
     <td valign="top">
       <h3>Hi there 👋, I'm Chung</h3>
-      <ul>
-      <li>I'm just a music student who does some amateur programming.</li>
-      <li>But I think we can be friends! Give me a star~</li>
-      </ul>
+      <p>I'm just a music student who does some amateur programming.</p>
+      <p>But I think we can be friends! Give me a star~</p>
       <ul>
         <li>Email: kcbrokeer@gmail.com</li>
         <li>RL language: Cantonese → Chinese → English</li>
