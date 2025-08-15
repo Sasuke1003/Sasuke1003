@@ -124,9 +124,13 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=sasuke1003&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Most Used Languages" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sasuke1003&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-  <img height="100%" src="https://raw.githubusercontent.com/Sasuke1003/photoshub/refs/heads/main/Pixel%20Art%208Bit%20GIF%20by%20pixel%20jeff.gif" />
 </div>
 
+<img src="https://raw.githubusercontent.com/Sasuke1003/photoshub/main/gradient.svg" width="100%"/>
+
+<div align="center">
+<img height="100%" src="https://raw.githubusercontent.com/Sasuke1003/photoshub/refs/heads/main/Pixel%20Art%208Bit%20GIF%20by%20pixel%20jeff.gif" />
+</div>
 <!--Youtube Music
 <p align="center">
   <img src="https://youtube-music-api-gamma.vercel.app" width="350" height="250"/>
