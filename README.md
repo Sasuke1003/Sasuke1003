@@ -26,7 +26,8 @@
                                              ░███████                                                                              
 </pre>
 </div>
-<p align="center"><a href="https://chunglkc-production.up.railway.app">→ Click me go ←</a></p>
+<p align="center">This is my login system under testing! <a href="https://chunglkc-production.up.railway.app">→ Click me go ←</a></p>
+<p align="center">This website is built with HTML5, CSS3, JS (ES6+), Node, and PostgreSQL. Thanks to Railway for hosting and Twilio for third-party API authentication.</p>
 
 
 <!-- GitHub Trophy -->
