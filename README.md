@@ -13,7 +13,7 @@
     </a>
 </p>
 
-<div align="center"><a href="https://chunglkc-production.up.railway.app">
+<div align="center">
 <pre><code>
   ░██████  ░██                                         ░██                 ░██████      ░██                      ░██ ░██           
  ░██   ░██ ░██                                         ░██                ░██   ░██     ░██                      ░██               
@@ -25,7 +25,8 @@
                                                    ░██                                                                             
                                              ░███████                                                                              
 </code></pre>
-</a></div>
+</div>
+<a href="https://chunglkc-production.up.railway.app">→ Click me go ←</a>
 
 
 <!-- New website photo's link-->
