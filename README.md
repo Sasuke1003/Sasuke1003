@@ -7,7 +7,7 @@
 <a href="https://codepen.io/sasuke1003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sasuke1003" height="30" width="40" /></a>
 <a href="https://twitter.com/nagalkc1003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nagalkc1003" height="30" width="40" /></a>
 <a href="https://instagram.com/chung.lkc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chung.lkc" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/chunglkc103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chung / 阿中" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@chunglkc103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chung / 阿中" height="30" width="40" /></a>
 <a href="https://discord.gg/kqCge9g2zn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kqCge9g2zn" height="30" width="40" /></a>
 </p>
 
