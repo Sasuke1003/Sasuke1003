@@ -13,9 +13,8 @@
     </a>
 </p>
 
-<a href="https://chunglkc-production.up.railway.app">
-<div align="center">
-    <pre>
+<div align="center"><a href="https://chunglkc-production.up.railway.app">
+<pre><code>
   ░██████  ░██                                         ░██                 ░██████      ░██                      ░██ ░██           
  ░██   ░██ ░██                                         ░██                ░██   ░██     ░██                      ░██               
 ░██        ░████████  ░██    ░██ ░████████   ░████████ ░██  ░███████     ░██         ░████████ ░██    ░██  ░████████ ░██ ░███████  
@@ -25,11 +24,12 @@
   ░██████  ░██    ░██  ░█████░██ ░██    ░██  ░█████░██      ░███████       ░██████       ░████  ░█████░██  ░█████░██ ░██ ░███████  
                                                    ░██                                                                             
                                              ░███████                                                                              
-    </pre>
-</div>
-</a>
+</code></pre>
+</a></div>
 
-  <h2>↗ My New Web! ↖</h2>
+
+<!-- New website photo's link-->
+// ... existing code ...
 
 <!-- GitHub Trophy -->
 <p align="center"> 
